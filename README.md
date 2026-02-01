@@ -30,7 +30,7 @@ I specialize in translating **complex ML systems** into **real, scalable product
 
 ---
 
-### 🤖 LLMs & ML Frameworks
+###  LLMs & ML Frameworks
 <p>
 <img src="https://img.shields.io/badge/GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -45,7 +45,7 @@ I specialize in translating **complex ML systems** into **real, scalable product
 
 ---
 
-### 📊 Data & Analytics
+###  Data & Analytics
 <p>
 <img src="https://img.shields.io/badge/SQL_(Advanced)-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=FFD43B"/>
@@ -73,7 +73,7 @@ I specialize in translating **complex ML systems** into **real, scalable product
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 **Amazon**  
 **AI Product Manager — Analytics & Decision Systems**  
