@@ -2,7 +2,7 @@
 <h3 align="center">AI Product Manager | ML-Driven Systems | Data Products at Scale</h3>
 
 <p align="center">
- Ex-Amazon • 🎓 MS IT & Analytics @ Rutgers •  AI × Product Strategy
+ Ex-Amazon •  MS IT & Analytics @ Rutgers •  AI × Product Strategy
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -93,7 +93,7 @@ I specialize in translating **complex ML systems** into **real, scalable product
 
 ---
 
-## 🧪 Featured Projects
+##  Featured Projects
 
 🚀 **AI Product Recommender**  
 _GNN + NLP-based recommendation engine_  
@@ -109,7 +109,7 @@ _ETL + dashboard automation reducing manual effort by 95%_
 
 ---
 
-## 🎓 Education
+##  Education
 
 **Rutgers University, New Jersey**  
 _M.S. in IT & Analytics_
