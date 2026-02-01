@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Apoorv Mishra</h1>
+<h1 align="center">Hi, I'm Apoorv Mishra</h1>
 <h3 align="center">AI Product Manager | ML-Driven Systems | Data Products at Scale</h3>
 
 <p align="center">
-🚀 Ex-Amazon • 🎓 MS IT & Analytics @ Rutgers • 🧠 AI × Product Strategy
+ Ex-Amazon • 🎓 MS IT & Analytics @ Rutgers •  AI × Product Strategy
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -16,7 +16,7 @@ I specialize in translating **complex ML systems** into **real, scalable product
 
 ---
 
-## 🧠 Core Competencies
+## Core Competencies
 
 ### 🚀 AI / ML Product
 <p>
