@@ -57,7 +57,7 @@ I specialize in translating **complex ML systems** into **real, scalable product
 
 ---
 
-### 🛠️ AI & Developer Tools
+###  AI & Developer Tools
 <p>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
