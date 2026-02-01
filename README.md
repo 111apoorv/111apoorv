@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Apoorv Mishra</h1>
+<h1 align="center">Hi, I'm Apoorv </h1>
 <h3 align="center">AI Product Manager | ML-Driven Systems | Data Products at Scale</h3>
 
 <p align="center">
