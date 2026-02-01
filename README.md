@@ -7,7 +7,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-## 👨‍💻 Professional Summary
+## Executive Summary
 
 AI Product Manager with **5+ years at Amazon** building **analytics, ML-driven, and data products** powering executive decisions across **US, EU, and AE regions**.  
 Proven track record of owning **end-to-end AI product lifecycle** — from problem discovery to shipped systems — delivering measurable business impact at scale.
@@ -18,7 +18,7 @@ I specialize in translating **complex ML systems** into **real, scalable product
 
 ## Core Competencies
 
-### 🚀 AI / ML Product
+###  AI / ML Product
 <p>
 <img src="https://img.shields.io/badge/Product_Strategy-0A0A0A?style=for-the-badge&logo=producthunt&logoColor=white"/>
 <img src="https://img.shields.io/badge/ML_System_Design-0A0A0A?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
