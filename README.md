@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Apoorv </h1>
-<h3 align="center">Senior Business Analyst | Data & Analytics | Ex-Amazon</h3>
+<h3 align="center">TPM | Data & Analytics | Ex-Amazon</h3>
 
 <p align="center">
  Ex-Amazon •  MS IT & Analytics @ Rutgers •  SQL | Tableau | Python | PMP
