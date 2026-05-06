@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-Senior Business Analyst with **6+ years at Amazon** driving **business insights through SQL, Tableau, and stakeholder-led analytics** across **US, EU, and AE regions**.  
+TPM with **6+ years at Amazon** driving **business insights through SQL, Tableau, and stakeholder-led analytics** across **US, EU, and AE regions**.  
 Proven track record of defining KPIs, building analytics frameworks, and influencing cross-functional decision-making — delivering **95% reporting effort reduction**, **$2M+ revenue impact**, and **40% faster executive decision-making**.
 
 I specialize in translating **complex business problems** into **data-driven solutions** with strong requirements gathering, stakeholder management, and execution discipline.
