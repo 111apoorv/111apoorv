@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Apoorv </h1>
-<h3 align="center">TPM | Data & Analytics | Ex-Amazon</h3>
+<h3 align="center">Business Analyst | Data & Analytics | Ex-Amazon</h3>
 
 <p align="center">
  Ex-Amazon •  MS IT & Analytics @ Rutgers •  SQL | Tableau | Python | PMP
@@ -9,7 +9,7 @@
 
 ## Executive Summary
 
-TPM with **6+ years at Amazon** driving **business insights through SQL, Tableau, and stakeholder-led analytics** across **US, EU, and AE regions**.  
+Business Analyst with **6+ years at Amazon** driving **business insights through SQL, Tableau, and stakeholder-led analytics** across **US, EU, and AE regions**.  
 Proven track record of defining KPIs, building analytics frameworks, and influencing cross-functional decision-making — delivering **95% reporting effort reduction**, **$2M+ revenue impact**, and **40% faster executive decision-making**.
 
 I specialize in translating **complex business problems** into **data-driven solutions** with strong requirements gathering, stakeholder management, and execution discipline.
@@ -72,7 +72,7 @@ I specialize in translating **complex business problems** into **data-driven sol
 ##  Professional Experience
 
 **Amazon**  
-**Program Manager — Analytics & Data Operations**  
+**Business Analyst — Analytics & Data Operations**  
 - Owned executive goal tracking system (Kingpin Report) monitoring annual targets across US, EU, and AE regions — improving decision velocity by **40%**  
 - Led cross-functional delivery across analytics, operations, and product teams serving **100+ stakeholders**  
 - Built automated ETL pipelines reducing manual reporting effort by **95%** (20+ hours/month to near-zero)  
